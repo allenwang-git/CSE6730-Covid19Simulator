@@ -1,4 +1,5 @@
 # CSE6730 Group Project
+This is a fork of [CSE6730group18](https://github.gatech.edu/ywang3781/CSE6730group18) 
 
 *Group 18*
 
@@ -9,11 +10,11 @@
 
 ## Code
 
-`covid_seird.ipynb` is the implementation of our project, including definition of model, data fitting and prediction functionalities.
+`covid_simulator.ipynb` is the implementation of our project, including definition of model, data fitting and prediction functionalities.
 
 ## Data
 
-The Covid-19 data we use comes from the `Center for Systems Science and Engineering (CSSE) at Johns Hopkins University`. 
+The Covid-19 data we use comes from the [Center for Systems Science and Engineering (CSSE) at Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19). 
 We save and use three countries' (`United States`, `India` and `Mexico`) covid data in our project.
 
 ## GUI
